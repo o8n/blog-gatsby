@@ -28,7 +28,6 @@ const BlogPostTemplate = ({
         />
         <hr />
         <footer>
-          <Bio />
         </footer>
       </article>
       <nav className="blog-post-nav">
